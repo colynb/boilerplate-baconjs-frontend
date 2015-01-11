@@ -1,0 +1,20 @@
+{
+  "name": "boilerplate-baconjs-frontend",
+  "version": "0.0.0",
+  "homepage": "https://github.com/colynb/boilerplate-baconjs-frontend",
+  "authors": [
+    "Colyn Brown <colyn.brown@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bacon": "~0.7.41",
+    "jquery": "~2.1.3"
+  }
+}
